@@ -2,6 +2,11 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/
+*.iml
+
+### Local database files ###
+db.data
 
 ### Eclipse ###
 .apt_generated
